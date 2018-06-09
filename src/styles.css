@@ -1,4 +1,4 @@
-.container {
-  font-family: sans-serif;
-  text-align: center;
+.container-1 {
+  border: 1px #ccc solid;
+  padding: 10px;
 }
